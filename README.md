@@ -34,7 +34,7 @@ const willyprados = {
 <a href="https://fb.com/willyprados" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="willyprados" height="20" width="20" /></a>
 <a href="https://instagram.com/willyprados" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="willyprados" height="20" width="20" /></a>
 <a href="https://www.behance.net/willyprados" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="willyprados" height="20" width="20" /></a>
-<a href="https://medium.com/willyprados" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="willyprados" height="20" width="20" /></a>
+<a href="https://medium.com/@willyprados" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="willyprados" height="20" width="20" /></a>
 </p>
 
 ---
