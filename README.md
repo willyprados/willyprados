@@ -9,7 +9,7 @@ const willyprados = {
   pronouns: 'she' | 'her',
   code: ['HTML', 'CSS', 'Javascript', 'React', 'Next', 'Material-UI', 'Styled-Components', 'SASS'],
   tools: ['VSCode', 'Jira', 'Figma', 'Netlify'],
-  techCommunities: [advocate: 'Friends of Figma Medellín', coorganizer: 'Reactlaconf'],
+  techCommunities: ['advocate': 'Friends of Figma Medellín', 'coorganizer': 'Reactlaconf'],
   challenge: 'I am doing the #365DaysOfStudy challenge focused on Javascript and React.js'
 }
 ```
