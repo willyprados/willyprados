@@ -18,7 +18,7 @@ const willyprados = {
 
 - ✨ <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-- 📫 How to reach me **willyprados.hsvip@slmail.me**
+- 📫 How to reach me **hi@willyprados.dev**
 
 --
 
